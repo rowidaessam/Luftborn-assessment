@@ -1,0 +1,30 @@
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.deps.json
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.csproj.AssemblyReference.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.AssemblyInfoInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.AssemblyInfo.cs
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.2D7F1E93.Up2Date
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\refint\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\ref\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.deps.json
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Application.pdb
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.csproj.AssemblyReference.cache
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.AssemblyInfoInputs.cache
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.AssemblyInfo.cs
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.2D7F1E93.Up2Date
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\refint\Luftborn.NetCodeTest.Application.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\Luftborn.NetCodeTest.Application.pdb
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Application\obj\Debug\net8.0\ref\Luftborn.NetCodeTest.Application.dll
