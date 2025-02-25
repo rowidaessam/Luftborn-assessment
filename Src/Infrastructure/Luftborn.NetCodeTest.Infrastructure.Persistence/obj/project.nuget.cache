@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "nh5LbxJcdnQ+gcxiyNQThvkO+hB+vaD4VdQb4mtoByVnorMxIA3d+OGHg17/wmTrCYa8+/zfeKd9aktOBFJXPg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Rowida Essam\\source\\New folder\\Luftborn-NetCodeTest\\Src\\Infrastructure\\Luftborn.NetCodeTest.Infrastructure.Persistence\\Luftborn.NetCodeTest.Infrastructure.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.2\\microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.2\\microsoft.entityframeworkcore.analyzers.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.2\\microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.2\\microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.logging\\9.0.2\\microsoft.extensions.logging.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rowida Essam\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.2\\system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Rowida Essam\\source\\New folder\\Luftborn-NetCodeTest\\Src\\Infrastructure\\Luftborn.NetCodeTest.Domain\\Luftborn.NetCodeTest.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Rowida Essam\\source\\New folder\\Luftborn-NetCodeTest\\Src\\Infrastructure\\Luftborn.NetCodeTest.Domain\\Luftborn.NetCodeTest.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

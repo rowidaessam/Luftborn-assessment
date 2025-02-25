@@ -1,0 +1,22 @@
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.deps.json
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.AssemblyInfo.cs
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\refint\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\ref\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.deps.json
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.AssemblyInfo.cs
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\refint\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\New folder\Luftborn-NetCodeTest\Src\Core\Luftborn.NetCodeTest.Domain\obj\Debug\net8.0\ref\Luftborn.NetCodeTest.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\bin\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.deps.json
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\bin\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\bin\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\bin\Debug\net8.0\Luftborn.NetCodeTest.Domain.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.F293E63C.Up2Date
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\refint\Luftborn.NetCodeTest.Infrastructure.Persistence.dll
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\Luftborn.NetCodeTest.Infrastructure.Persistence.pdb
+C:\Users\Rowida Essam\source\Luftborn.NetCodeTest.Infrastructure.Persistence\obj\Debug\net8.0\ref\Luftborn.NetCodeTest.Infrastructure.Persistence.dll
